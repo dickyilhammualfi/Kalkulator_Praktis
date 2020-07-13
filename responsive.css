@@ -1,0 +1,46 @@
+@media all and (max-width: 1025px) {
+  .calculator{
+    text-align: center;
+    margin: 0 auto;
+    width: 75%;
+  }
+
+  h2 {
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 5px;
+  }
+
+  h3 {
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 5px;
+  }
+}
+
+@media all and (max-width: 670px) {
+  .calculator{
+    text-align: center;
+    margin: 0 auto;
+    width: auto;
+  }
+  .calculator-screen{
+    font-size: 30px
+  }
+
+  .history{
+    font-size: 15px
+  }
+
+  h2 {
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 2px;
+  }
+
+  h3 {
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 5px;
+  }
+}
